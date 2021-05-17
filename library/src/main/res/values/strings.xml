@@ -1,0 +1,6 @@
+<resources>
+    <string name="current_time">Current Time:</string>
+    <string name="installed_on">Library installed on the %1$s</string>
+    <string name="current_time_format">HH:mm:ss dd MMM yyyy</string>
+    <string name="default_icon_link">https://mk0prodwwwpointrtkfu.kinstacdn.com/wp-content/uploads/2017/08/pointzi-logo-blue-text-821x275px.png</string>
+</resources>
